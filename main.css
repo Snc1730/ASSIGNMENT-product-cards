@@ -1,0 +1,56 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#blue {
+  flex-basis: 33%;
+}
+
+#yellow {
+  flex-basis: 33%;
+}
+
+#red {
+  flex-basis: 33%;
+}
+
+#black {
+  flex-basis: 33%;
+}
+
+h3 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  border: 1px solid lightblue;
+  width: 100%;
+}
+
+.avail {
+  background-color: grey;
+  color: yellow;
+}
+
+.specs {
+  font-weight: bold;
+  text-align: center;
+}
+
+.foot {
+  text-align: center;
+  font-size: x-small;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+  line-height: 20px;
+  font-size: 20px;
+}
+
+.card-text {
+  text-align: justify;
+}
